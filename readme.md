@@ -1,1 +1,3 @@
-![photo]("/assets/image.png")
+热力图
+
+![photo](./assets/image.png)
